@@ -1,0 +1,1 @@
+# food-tech-static-data-microservices
