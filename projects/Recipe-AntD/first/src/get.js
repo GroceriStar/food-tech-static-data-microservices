@@ -1,5 +1,20 @@
 const recipes = require('@groceristar/sd-wrapper')
 
+// const ALLOWED_HTTP_METHOD = 'GET'
+//
+// module.exports = exports = function (fn) {
+//   return (req, res) => {
+//     res.setHeader('Access-Control-Request-Method', ALLOWED_HTTP_METHOD)
+//     const {method} = req
+//     if (method !== ALLOWED_HTTP_METHOD) {
+//       res.writeHead(405)
+//       res.end('Method Not Allowed')
+//       return
+//     }
+//     return fn(req, res)
+//   }
+// }
+
 module.exports = async () => {
   return recipes;
 }
