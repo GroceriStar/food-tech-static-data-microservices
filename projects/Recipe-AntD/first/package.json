@@ -24,7 +24,7 @@
     "prettier": "1.5.3",
     "request-promise": "4.2.4",
     "test-listen": "1.1.0",
-    "xo": "0.18.2",
+    "xo": "0.24.0",
     "micro-dev": "latest"
   }
 }
