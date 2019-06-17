@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@groceristar/sd-wrapper": "^4.9.3"
+  }
+}
