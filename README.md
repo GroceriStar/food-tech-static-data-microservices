@@ -58,6 +58,12 @@ https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
 https://medium.com/quick-code/from-zero-to-deployed-with-react-travisci-and-surge-9be99350cf8b
 https://surge.sh/
 
+
+https://medium.com/quick-code/from-zero-to-deployed-with-react-travisci-and-surge-9be99350cf8b
+
+https://medium.com/@sumn2u/automate-create-react-app-deployment-to-gh-pages-using-travis-ci-b2a97203680b
+
+
 ----
 
 https://medium.com/techahoy/building-a-boilerplate-for-microservices-part-1-166ce00f5ce9
