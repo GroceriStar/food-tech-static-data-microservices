@@ -103,3 +103,20 @@ https://dev.to/alex_barashkov/using-docker-for-nodejs-in-development-and-product
     https://aws.amazon.com/docker/
     https://docs.docker.com/machine/examples/aws/
     https://www.freecodecamp.org/news/an-in-depth-introduction-to-docker-on-aws-f373ff97da0e/
+----
+
+https://github.com/romuloalves/micro-get/blob/master/package.json
+    https://martinfowler.com/articles/break-monolith-into-microservices.html
+
+
+
+    https://zeit.co/examples/nodejs/
+    https://zeit.co/docs/v2/deployments/official-builders/node-js-now-node
+    https://zeit.co/docs/integrations/#component-catalog
+    https://zeit.co/oss
+
+https://zeit.co/blog/now-dev
+
+    https://github.com/zeit/micro#testing
+
+    https://github.com/zeit/micro#error-handling
