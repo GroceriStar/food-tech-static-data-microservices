@@ -42,6 +42,23 @@ Create a readme with explanation all of our code proejcts +
 
 https://github.com/romuloalves/micro-get/blob/master/package.json
 
+https://medium.com/microsoftazure/build-pipelines-for-github-projects-59dd9229a758
+
+
+
+-----
+
+DEVOPS
+
+
+https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
+
+
+
+https://medium.com/quick-code/from-zero-to-deployed-with-react-travisci-and-surge-9be99350cf8b
+https://surge.sh/
+
+----
 
 https://medium.com/techahoy/building-a-boilerplate-for-microservices-part-1-166ce00f5ce9
 https://dzone.com/articles/how-to-develop-a-boilerplate-for-api-with-nodejs-e
