@@ -94,6 +94,36 @@ https://www.youtube.com/watch?v=2yko4TbC8cI
 
 
 
+https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
+https://martinfowler.com/articles/break-monolith-into-microservices.html
+https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
+  https://semaphoreci.com/blog/cicd-pipeline
+  https://medium.com/productschool/a-product-ideation-method-zoom-in-zoom-out-zizo-35c0403a5873
+  https://developer.github.com/actions/
+  https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
+  https://docs.microsoft.com/en-us/azure/devops/pipelines/process/stages?view=azure-devops&tabs=yaml
+  https://docs.microsoft.com/ru-ru/azure/devops/pipelines/create-first-pipeline?WT.mc_id=azuremedium-blog-brborges&view=azure-devops&tabs=tfs-2018-2#get-the-sample-code
+  https://www.youtube.com/watch?v=hZ0vNZGHUIY
+  https://www.vexplode.com/en/programming/build-a-modern-js-project-11-travis-ci-coveralls/
+  https://pusher.com/sessions/meetup/london-node-user-group/speeding-up-ci-with-node-and-docker
+  https://www.youtube.com/watch?v=4QjqL9zwKkI
+  https://www.youtube.com/watch?v=aoMfbgF2D_4
+  https://www.youtube.com/watch?v=2yko4TbC8cI
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----
