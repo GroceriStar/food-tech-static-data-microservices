@@ -44,7 +44,7 @@ https://github.com/romuloalves/micro-get/blob/master/package.json
 
 https://medium.com/microsoftazure/build-pipelines-for-github-projects-59dd9229a758
 
-
+Awesome: https://paper.li/GroceriStar/1525078892?edition_id=7a3d6790-7f95-11e9-8f2d-002590a5ba2d#/
 
 -----
 
@@ -64,7 +64,44 @@ https://medium.com/quick-code/from-zero-to-deployed-with-react-travisci-and-surg
 https://medium.com/@sumn2u/automate-create-react-app-deployment-to-gh-pages-using-travis-ci-b2a97203680b
 
 
+
+https://www.youtube.com/watch?v=Uft5KBimzyk
+
+https://www.youtube.com/watch?v=c7OL8wWMUdo
+
+https://pusher.com/sessions/meetup/london-node-user-group/speeding-up-ci-with-node-and-docker
+
+https://www.youtube.com/watch?v=xSv_m3KhUO8
+
+https://futurestud.io/tutorials/node-js-why-you-should-add-node-in-your-travis-config
+
+
+https://docs.travis-ci.com/user/languages/javascript-with-nodejs#Specifying-Node.js-versions
+
+
+https://www.youtube.com/watch?v=xSv_m3KhUO8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----
+
+
+
+
+https://zeit.co/guides/deploying-react-with-now-cra/
+
+
 
 https://medium.com/techahoy/building-a-boilerplate-for-microservices-part-1-166ce00f5ce9
 https://dzone.com/articles/how-to-develop-a-boilerplate-for-api-with-nodejs-e
