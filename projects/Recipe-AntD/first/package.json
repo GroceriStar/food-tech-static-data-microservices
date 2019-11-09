@@ -21,7 +21,7 @@
   "devDependencies": {
     "ava": "2.4.0",
     "eslint-config-prettier": "6.4.0",
-    "prettier": "1.18.2",
+    "prettier": "1.19.1",
     "request-promise": "4.2.5",
     "test-listen": "1.1.0",
     "xo": "0.25.3",
