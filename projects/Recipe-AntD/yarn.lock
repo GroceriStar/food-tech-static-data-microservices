@@ -97,10 +97,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@groceristar/sd-wrapper@4.14.4":
-  version "4.14.4"
-  resolved "https://registry.yarnpkg.com/@groceristar/sd-wrapper/-/sd-wrapper-4.14.4.tgz#aebdf94f9954454352a74b12a461de26f90aa983"
-  integrity sha512-XaukUqxHlYHXXOSljxliWW9MM325dt7/CjZKhJaERiQFJjPRnooI3IQ0tQPuJXWZ3oi081eHmFM20iwzFTUMkQ==
+"@groceristar/sd-wrapper@4.15.0":
+  version "4.15.0"
+  resolved "https://registry.yarnpkg.com/@groceristar/sd-wrapper/-/sd-wrapper-4.15.0.tgz#c94c18704132e097fe04797e6dd5529d9756fd4e"
+  integrity sha512-uXa/C2o2Uk3Ogm0k/Hfc1QCn9ET/BG6A+urMXpjQw0CcMabGsJlN5NTV02eP1ss4cDJvhXc3rD+3JW9dolockA==
   dependencies:
     "@groceristar/static-data-generator" "^1.0.0"
     babel-eslint "^10.0.2"
