@@ -22,7 +22,7 @@
     "ava": "3.6.0",
     "eslint-config-prettier": "8.3.0",
     "prettier": "2.0.1",
-    "request-promise": "4.2.5",
+    "request-promise": "4.2.6",
     "test-listen": "1.1.0",
     "xo": "0.25.3",
     "micro-dev": "latest"
